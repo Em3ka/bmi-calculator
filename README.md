@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repo](https://github.com/Em3ka/bmi-calculator)
-- Live Site URL: [BMI Calculator](https://your-live-site-url.com)
+- Live Site URL: [BMI Calculator](https://bmi-calculator-sigma-vert.vercel.app/)
 
 ## My process
 
